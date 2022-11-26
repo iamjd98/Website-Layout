@@ -1,0 +1,104 @@
+*{                                                /* TO REMOVE BODY DEFAULT MARGINS AND PADDING*/
+    margin: 0px;
+    padding: 0px;
+} 
+
+body {                                            /* TO PUT BACKGROUND ON BODY*/
+    background-color: rgb(133, 103, 103);
+} 
+
+.header {                                         /* NAVIGATION & HEADER*/
+    background-color: rgb(19, 16, 16);
+    height: 60px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+
+
+.carousel {                                         /* PHOTO SLIDERS*/
+    background-color: rgb(63, 56, 56);
+    height: 300px;
+    margin-top: 1px;
+    margin-left: 5px;
+    margin: 5px;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section1 {                                        /* FEATURED ARTIST SECTION*/
+    background-color: brown;
+    height: 400px;
+    width: 49.90%;
+    float: left;
+    margin-top: 1px;
+    color:aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center
+    
+}
+
+.section2 {                                        /* FEATURED MUSIC SECTION*/
+    background-color: brown;
+    height: 400px;
+    width: 49.90%;
+    float: right;
+    margin-top: 1px;
+    color:aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center  
+}
+
+.featured {                                        /* FEATURES CONTAINER*/
+    background-color: azure;
+    height: 402px;
+    margin: 10px;
+    padding: 10px;
+
+
+}
+
+.sub {                                            /* SUBMISSION FORM*/
+    background-color: rgb(99, 67, 0);
+    height: 300px;
+    margin-top: 1px;
+    margin-left: 5px;
+    margin: 5px;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+
+.footer {                                           /* FOOTER*/
+    background-color: rgb(34, 7, 7);
+    height: 300px;
+    margin-top: 1px;
+    margin-left: 5px;
+    margin: 5px;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+    
+
